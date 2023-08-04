@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+.idea/
+*.xml
+*.iml
+Test Dataset/
+Train Dataset/
